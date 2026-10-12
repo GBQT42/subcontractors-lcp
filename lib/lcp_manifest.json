@@ -1,0 +1,17 @@
+{
+  "name": "LANCER: Subcontractors",
+  "author": "GBQT",
+  "description": "COMP/CON data for the Subcontractors West Marches",
+  "item_prefix": "subcontractors-",
+  "version": "1.0",
+  "image_url": "https://d2c79xe1p61csc.cloudfront.net/other/dustgravecover.jpg",
+  "website": "https://github.com/GBQT42/subcontractors-lcp",
+  "version_history": [
+    {
+      "version": "1.0",
+      "date": "2026-10-12",
+      "changes": ["Initial release."]
+    }
+  ],
+  "v3": true
+}

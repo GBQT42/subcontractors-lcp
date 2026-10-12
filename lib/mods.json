@@ -1,0 +1,20 @@
+[
+  {
+    "id": "wm_incendiary_munitions",
+    "name": "Incendiary Munitions",
+    "sp": 2,
+    "allowed_types": ["CQB", "Rifle", "Launcher", "Cannon", "Nexus"],
+    "source": "EXOTIC",
+    "effect": "When using the weapon this mod is applied to, you may change its damage type to Burn",
+    "on_hit": {
+      "detail": "When using the weapon this mod is applied to, you may change its damage type to Burn",
+      "activation": "Free"
+    },
+    "description": "As a particularly costly and messy addition, incendiary munitions are seldom used. However, this does not stop pilots more concerned with style than efficiency.",
+    "tags": [
+      {
+        "id": "tg_unique"
+      }
+    ]
+  }
+]
